@@ -1,0 +1,10 @@
+html,
+body { 
+    width: 100px;
+    background-color: rgb(131, 197, 255);
+}
+
+
+.hidden {
+    display: none;
+}
